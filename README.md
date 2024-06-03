@@ -4,8 +4,8 @@
 
 > A new repository was created for the Odin Porject exercise "FizzBuzz", specifically in the "Problem Solving" section. Fizz buzz is a group word game for children to teach them about division.[1] Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz", and any number divisible by both three and five with the word "fizzbuzz".
 
-![screenshot](./screenshot_1.png)
-![screenshot](./screenshot_2.png)
+![screenshot](./screenshot_one.png)
+![screenshot](./screenshot_two.png)
 
 Additional description about the project and its features.
 
